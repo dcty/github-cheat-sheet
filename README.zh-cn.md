@@ -61,7 +61,7 @@
     - [Git参考书籍](#git%E5%8F%82%E8%80%83%E4%B9%A6%E7%B1%8D)
 
 ## GitHub
-<span id="md-anchor">### 忽略空白字符变化</span>
+<span id="ignore-whitespace">### 忽略空白字符变化</span>
 
 在任意diff页面的URL后加上`?w=1`，可以去掉那些只是空白字符的变化，使你能更专注于代码的变化。
 
