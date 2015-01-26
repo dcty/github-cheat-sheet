@@ -5,8 +5,7 @@
 
 # 目录
  - [GitHub](#github)
-  - [just_test](#just_test)
-  - [忽略空白字符变化](#忽略空白字符变化)
+  - [忽略空白字符变化](#ignore-whitespace)
   - [调整Tab字符所代表的空格数](#%E8%B0%83%E6%95%B4tab%E5%AD%97%E7%AC%A6%E6%89%80%E4%BB%A3%E8%A1%A8%E7%9A%84%E7%A9%BA%E6%A0%BC%E6%95%B0)
   - [查看某个用户的Commit历史](#%E6%9F%A5%E7%9C%8B%E6%9F%90%E4%B8%AA%E7%94%A8%E6%88%B7%E7%9A%84commit%E5%8E%86%E5%8F%B2)
   - [克隆某个仓库](#%E5%85%8B%E9%9A%86%E6%9F%90%E4%B8%AA%E4%BB%93%E5%BA%93)
@@ -62,8 +61,7 @@
     - [Git参考书籍](#git%E5%8F%82%E8%80%83%E4%B9%A6%E7%B1%8D)
 
 ## GitHub
-### 忽略空白字符变化
-### just_test
+### 忽略空白字符变化(ignore-whitespace)
 
 在任意diff页面的URL后加上`?w=1`，可以去掉那些只是空白字符的变化，使你能更专注于代码的变化。
 
